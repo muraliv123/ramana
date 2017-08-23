@@ -1,0 +1,5 @@
+*.class
+[0-9].java
+!123.java
+*.pdf
+?
